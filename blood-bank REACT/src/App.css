@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+ 
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.li{
+  display: none;
+}
+.slect{
+  display: inline;
+}
+Link{
+  text-decoration-style: none;
+}
+.todo{
+  margin-block-start: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: white;
+}
+.card{
+  margin-top: 115px;
+  display: inline-block;
+margin-left: 80px;
+}
+
+
+h1{
+  text-align: center;
+  font-size: 45px;
+  font-family: cursive;
+}
+.text-center{
+  font-size: 30px;
+  font-family: monospace;
+  -webkit-box-shadow: 8px 15px 20px #888888;
+          box-shadow: 8px 15px 20px #888888;
+          align-items: center;
+          text-align: center;
+          text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  font-family: cursive
+}
